@@ -16,7 +16,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-      - run: sudo chown -R runner:runner dist/ && find dist/ -name '*.svg' -exec sed -i 's/27100ms/81300ms/g' {} +
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
