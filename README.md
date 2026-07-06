@@ -1,19 +1,19 @@
-# 👋 Hey, I'm Vishal
+# Hey, I'm Vishal
 
-I'm a developer and creator from India who enjoys building things that people actually use — websites, apps, bots, Minecraft plugins, and open-source projects.
+I'm a developer and creator from India who enjoys building things that people actually use -- websites, apps, bots, Minecraft plugins, and open-source projects.
 
-## 🚀 What I Do
+## What I Do
 
-Full-stack apps · Discord bots · Minecraft plugins · UI design · OSS
+Full-stack apps, Discord bots, Minecraft plugins, UI design, OSS
 
-## 🛠️ Stack
+## Stack
 
 **Languages:** JavaScript, TypeScript, Java, Python, HTML, CSS, SQL
 **Tools:** React, Next.js, Node.js, Express, Tailwind, Git, Linux, MongoDB, PostgreSQL
 
-## 📫 Find Me
+## Find Me
 
-[Instagram](https://instagram.com/real.griseo) · [YouTube](https://youtube.com/@realgriseo) · [GitHub](https://github.com/hehegriseo) · [Medium](https://medium.com/@realgriseo)
+[Instagram](https://instagram.com/real.griseo)  [YouTube](https://youtube.com/@realgriseo)  [GitHub](https://github.com/hehegriseo)  [Medium](https://medium.com/@realgriseo)
 
 ---
 
