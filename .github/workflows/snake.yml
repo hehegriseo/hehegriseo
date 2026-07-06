@@ -16,7 +16,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-      - run: for f in dist/*.svg; do [ -f "$f" ] && sed -i 's/27100ms/81300ms/g' "$f"; done
+      - run: ls -laR dist/ && find dist/ -name '*.svg' -exec sed -i 's/27100ms/81300ms/g' {} \; && echo "done"
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
