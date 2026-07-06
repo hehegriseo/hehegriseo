@@ -1,13 +1,19 @@
-# hehegriseo
+# 👋 Hey, I'm Vishal
 
-builder · breaker · learner
-`rust` `ts` `java` `go` `python` `lua`
+I'm a developer and creator from India who enjoys building things that people actually use — websites, apps, bots, Minecraft plugins, and open-source projects.
 
-building devtools, ai apps, minecraft plugins, oss.
+## 🚀 What I Do
 
----
+Full-stack apps · Discord bots · Minecraft plugins · UI design · OSS
 
-[github](https://github.com/hehegriseo) • [instagram](https://instagram.com/real.griseo) • [youtube](https://youtube.com/@realgriseo)
+## 🛠️ Stack
+
+**Languages:** JavaScript, TypeScript, Java, Python, HTML, CSS, SQL
+**Tools:** React, Next.js, Node.js, Express, Tailwind, Git, Linux, MongoDB, PostgreSQL
+
+## 📫 Find Me
+
+[Instagram](https://instagram.com/real.griseo) · [YouTube](https://youtube.com/@realgriseo) · [GitHub](https://github.com/hehegriseo) · [Medium](https://medium.com/@realgriseo)
 
 ---
 
